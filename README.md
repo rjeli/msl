@@ -1,6 +1,6 @@
 # macOS subsystem for Linux
 
-##⚠️ under construction, come back soon :)
+## ⚠️  under construction, come back soon :)
 
 Seamlessly run Linux CLI applications under macOS.
 
